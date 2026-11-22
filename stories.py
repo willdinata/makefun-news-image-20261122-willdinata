@@ -26,6 +26,7 @@ MAINS = [
         "desc": "The UN summit in Antalya entered a second day of overtime on Sunday, with countries still split over phasing out fossil fuels and funding for poorer nations. The EU says it wants a good deal — or no deal.",
         "icon": "leaf",
         "pin": (30.7, 36.9),
+        "scene": "summit",
     },
     {
         "n": 2,
@@ -36,6 +37,7 @@ MAINS = [
         "desc": "A Russian drone partly destroyed a five-storey residential building in Vyshhorod, near Kyiv, overnight. Two people were hurt and at least 14 are missing as rescuers search the rubble.",
         "icon": "building",
         "pin": (30.6, 50.7),
+        "scene": "kyiv",
     },
     {
         "n": 3,
@@ -46,6 +48,7 @@ MAINS = [
         "desc": "Bahrain says an Iranian strike set fire to a civilian industrial site late Saturday. Iran's Revolutionary Guards said they targeted US bases, and two oil tankers were reported hit near the Strait of Hormuz as the US blockade reached 130 days.",
         "icon": "flame",
         "pin": (50.6, 26.2),
+        "scene": "hormuz",
     },
     {
         "n": 4,
@@ -56,6 +59,7 @@ MAINS = [
         "desc": "Special forces seized Fausto Isidro Meza Flores in Guasave, Sinaloa, with US help. Seven gunmen and four soldiers died.",
         "icon": "badge",
         "pin": (-108.5, 25.6),
+        "scene": "desert",
     },
     {
         "n": 5,
@@ -66,6 +70,7 @@ MAINS = [
         "desc": "A rout in AI and chip shares drove the S&P 500 down 3.7% to 6,910. Japan's Nikkei fell 5.06%; gold slid 4.62% to $3,515.",
         "icon": "chart",
         "pin": (-74.0, 40.7),
+        "scene": "plunge",
     },
     {
         "n": 6,
@@ -76,6 +81,7 @@ MAINS = [
         "desc": "After Shenzhen agreed to open nuclear risk talks, Trump called Putin a friend; Kyiv called the summit 'very unsuccessful'.",
         "icon": "hands",
         "pin": (114.1, 22.5),
+        "scene": "bridge",
     },
     {
         "n": 7,
@@ -86,6 +92,7 @@ MAINS = [
         "desc": "Choi Kyo-jin resigned Sunday after an AI-assisted cheating scandal erupted days before the Suneung college entrance exam.",
         "icon": "cap",
         "pin": (127.0, 37.6),
+        "scene": "campus",
     },
     {
         "n": 8,
@@ -96,6 +103,7 @@ MAINS = [
         "desc": "The FBI is investigating a reported breach of the National Crime Information Center, the database US police use daily.",
         "icon": "lock",
         "pin": (-77.0, 38.9),
+        "scene": "servers",
     },
     {
         "n": 9,
@@ -106,6 +114,7 @@ MAINS = [
         "desc": "Fire swept through the PT Fonusa Agung Mulia candy factory in Banten, killing at least three, with dozens missing.",
         "icon": "factory",
         "pin": (106.1, -6.4),
+        "scene": "factory",
     },
     {
         "n": 10,
@@ -116,6 +125,7 @@ MAINS = [
         "desc": "A boat taking mourners to a funeral capsized in Bayelsa state, killing 24 people on board.",
         "icon": "boat",
         "pin": (6.1, 4.9),
+        "scene": "riverboat",
     },
     {
         "n": 11,
@@ -126,6 +136,7 @@ MAINS = [
         "desc": "Europe and Japan's twin probes were captured by Mercury's gravity after eight years — only the second mission to orbit it.",
         "icon": "planet",
         "pin": (8.6, 49.9),
+        "scene": "mercury",
     },
     {
         "n": 12,
@@ -136,6 +147,7 @@ MAINS = [
         "desc": "A single gene-editing treatment cut LDL ('bad') cholesterol by 52% in trial patients, raising hopes of a one-off fix.",
         "icon": "dna",
         "pin": (-98.0, 39.8),
+        "scene": "helix",
     },
     {
         "n": 13,
@@ -146,6 +158,7 @@ MAINS = [
         "desc": "Russia launched 186 strike drones overnight, including 72 jet-powered models. Air defences downed 161; 18 sites were hit.",
         "icon": "drone",
         "pin": (29.8, 50.9),
+        "scene": "intercept",
     },
 ]
 
